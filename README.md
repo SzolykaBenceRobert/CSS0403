@@ -1,4 +1,8 @@
 # CSS403
+* A feladatsor Sallai András munkája alapján készült 
+* Licenc: CC BY-SA 4.0
+* https://szit.hu/doku.php?id=oktatas:web:feladatok:css
+---------------------------------------------------
 1. Legyen egy container osztályjelölővel jelölt div a fődoboz.
 2. Legyen a .container dobozban egy h1 elem, tartalma a mintának megfelelő.
 3. A h1 után egy aside elem legyen, tartalma 10 szavas lorem ipsum szöveg.
@@ -19,3 +23,4 @@
 18. p elem tartama legyen sorkizárva.
 19. A p elemben a 2-dik szó az ipsum, legyen félkövér CSS segítségével.
 20. a p elemben a 3-dik és 4-dik szó együtt legyen dőlt CSS segítségével.
+------------------------------------------------------------
